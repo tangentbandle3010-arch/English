@@ -1,0 +1,16 @@
+Suppose you love math, and you had to choose just one proof to show someone to explain why it is that math is beautiful, something that can be appreciated by anyone from a wide range of backgrounds while still capturing the spirit of progress and cleverness in math.
+What would you choose?
+After I put out a video on Feynman's Lost Lecture about why planets orbit in ellipses, published as a guest video over on MinutePhysics, someone on Reddit asked about why the definition of an ellipse given in that video, the classic two thumbtacks and a piece of string construction, is the same as the definition involving slicing a cone.
+What is an ellipse
+Well, my friend, you've asked about one of my all-time favorite proofs, a lovely bit of 3D geometry which, despite requiring almost no background,still captures the spirit of mathematical inventiveness.
+For context and to make sure we're all on the same page, there are at least three main ways you could define an ellipse geometrically.
+One is to say you take a circle and stretch it out in one dimension.
+For example, maybe you consider all of the points as xy coordinates, and you multiply just the x coordinate by some special factor for all the points.
+
+楕円とは何か
+誰かは円を持ってきてある方向に伸ばしたものだという。
+文脈にとって、私たちは同じページにいるのだと確信し、あなたが楕円を定義する方法は少なくとも主に3つある
+例えば、おそらく、xy座標のすべての点を考え、そして、x座標だけにある特別な因子を任意の点にかける
+ええと、私の友達、あなた方が私のお気に入りの証明を聞く時、なんの背景も必要ないのにも関わらず、いまでも数学的発明の精神を虜にし続けている3次元の幾何を愛している人、
+あなたが数学を愛しているなら、あなたはだれかになぜ数学は美しいのか、また、多くの背景を持つ人々から称賛されているのかを数学における進歩と賢さの精神をもちながら、説明するたった一つの証明を選ばなければならないとしたら、何を選ぶだろうか。
+なぜ惑星は楕円軌道を描くのかについてのファインマンの失われた講義についての動画をアップしたあと、minutephysicsのゲストビデオとして配信されRedditの誰かが、2点の焦点からの距離の和が等しい集合という動画で与えられた定義と、円錐を切った時の定義を含んでるのと尋ねていた。
